@@ -4,27 +4,27 @@ Web Development Project
 Pick n' Pay
 ## Purpose
 The purpose of the website is to:
-Provide information about Pick n Pay
-Display products and services
+Provide information about Pick n Pay,
+Display products and services,
 Allow customers to submit enquiries
 ## Website Pages
-Homepage (index.html)
-About Us (about.html)
-Products (products.html)
+Homepage (index.html),
+About Us (about.html),
+Products (products.html),
 Contact Us (contact.html)
 ## Technologies Used
-HTML5
-Github Pages
+HTML5,
+Github Pages,
 SEO techniques
 ## SEO Features Implemented
-Descriptive page Titles
-Meta descriptions
+Descriptive page Titles,
+Meta descriptions,
 Keywords
 ## Author
 Olesego Mokonyana
 ## References
 Information were sourced from:
-https://www.picknpay.co.za
+https://www.picknpay.co.za, 
 https://www,picknpayinvestor.co.za
 Images sourced from:
 https://unsplash.com
